@@ -1,0 +1,9 @@
+courses:
+  - - C
+    - Java
+    - Data Structures
+    - Algorithms
+  - - Big Data
+    - Spark
+    - Kafka
+    - Machine Learning
